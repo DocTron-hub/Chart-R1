@@ -151,3 +151,18 @@ Lei Chen, Xuanle Zhao, Zhixiong Zeng†, Jing Huang, Yufeng Zhong, Lin Ma*
   </tr>
 </tbody>
 </table>
+
+
+## Citation
+If you find this project useful, please feel free to leave a star and cite our paper:
+```
+@misc{chen2025chartr1chainofthoughtsupervisionreinforcement,
+      title={Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner}, 
+      author={Lei Chen and Xuanle Zhao and Zhixiong Zeng and Jing Huang and Yufeng Zhong and Lin Ma},
+      year={2025},
+      eprint={2507.15509},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2507.15509}, 
+}
+```
