@@ -20,7 +20,7 @@ Lei Chen, Xuanle Zhao, Zhixiong Zeng†, Jing Huang, Yufeng Zhong, Lin Ma*
 </div>
 
 ## News and Updates
-* ```2025.07.18``` 🔥🔥🔥 We release the technical report of **Chart-R1** at [link](./assets/Chart_R1.pdf).
+* ```2025.07.21``` 🔥🔥🔥 We release the technical report of **Chart-R1** at arXiv [link](https://arxiv.org/abs/2507.15509).
 
 ## Performance
 <table>
