@@ -20,7 +20,18 @@ Lei Chen, Xuanle Zhao, Zhixiong Zeng†, Jing Huang, Yufeng Zhong, Lin Ma*
 </div>
 
 ## News and Updates
+* ```2025.07.25``` We upload our model weights [Chart-R1](https://huggingface.co/DocTron/Chart-R1) and [Chart-COT](https://huggingface.co/DocTron/Chart-COT) to HuggingFace.
 * ```2025.07.21``` 🔥🔥🔥 We release the technical report of **Chart-R1** at arXiv [link](https://arxiv.org/abs/2507.15509).
+
+
+## Models
+|  Model   | Download Link  |
+|  ----  | ----  |
+|  Chart-COT |  [DocTron/Chart-COT](https://huggingface.co/DocTron/Chart-COT)  |
+|  Chart-R1  |  [DocTron/Chart-R1](https://huggingface.co/DocTron/Chart-R1)   |
+
+The ```Chart-COT``` is Qwen2.5-VL-7B-Instruct fine-tuned with supervised learning on the ChartRQA-SFT dataset. The ```Chart-R1``` is Chart-COT further optimized through reinforcement fine-tuning (RFT).
+
 
 ## Performance
 <table>
@@ -156,7 +167,7 @@ Lei Chen, Xuanle Zhao, Zhixiong Zeng†, Jing Huang, Yufeng Zhong, Lin Ma*
 ## Citation
 If you find this project useful, please feel free to leave a star and cite our paper:
 ```
-@misc{chen2025chartr1chainofthoughtsupervisionreinforcement,
+@misc{chen2025chartr1,
       title={Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner}, 
       author={Lei Chen and Xuanle Zhao and Zhixiong Zeng and Jing Huang and Yufeng Zhong and Lin Ma},
       year={2025},
