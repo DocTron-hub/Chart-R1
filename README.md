@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div align="center">
   <h1>Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner</h1>
 </div>
 
